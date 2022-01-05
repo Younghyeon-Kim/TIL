@@ -1,8 +1,10 @@
+
+
 # TIL
 
 ##### 2022 01 05
 
-- 더 나은 내일을 위한 기록
+- 늦게 출발한만큼 쉬지 않고 달리기.
 
 
 
@@ -12,14 +14,22 @@
   - **CLI**(Command Line Interface) : 터미널을 통해 사용자와 컴퓨터가 상호작용하는 방식
   - GUI(Graphic User Interface) : 그래픽을 통해 사용자와 컴퓨터가 상호작용하는 방식
     - Window 운영체제에서 Unix/Linux 명령어를 사용하기 위해서 **Git bash**를 쓴다
+- Commit은 3가지 영역을 바탕으로 동작
+  - Working Directory : 내가 작업하고 있는 실제 Directory
+  - Staging Area : Commit으로 남기고 싶은, 특정 버젼으로 관리하고 싶은 파일 저장소
+  - Repository : Commit들이 저장되는 곳
 
-
+- `git init` : 로컬 저장소 생성
+- `git add`, `git commit -m`, `git push origin master`
 
 ## 2. CLI 기초
 
 - ls : 현재 위치의 폴더, 파일 목록보기
+
 - cd <path> : 현재 위치 이동하기
+
 - cd .. : 상위 폴더로 이동하기
+
 - mkdir <name> : 폴더 생성하기
 
 - touch : 파일 생성하기
@@ -93,7 +103,7 @@ else:
 
 - `![string](img_url)`:
 
-  ex) ![혼자왔니?](README/%EB%B2%94%EC%A3%84%EB%8F%84%EC%8B%9C%EC%9E%A5%EC%B2%B8%EC%9C%A4%EA%B3%84%EC%83%81%EB%8C%80%EC%82%AC%EC%A7%A4%ED%98%BC%EC%9E%90%EC%95%BC-crop.jpg)
+  ex) ![혼자왔니?](README/%EB%B2%94%EC%A3%84%EB%8F%84%EC%8B%9C%EC%9E%A5%EC%B2%B8%EC%9C%A4%EA%B3%84%EC%83%81%EB%8C%80%EC%82%AC%EC%A7%A4%ED%98%BC%EC%9E%90%EC%95%BC-crop-16413737853011.jpg)
 
   
 
@@ -112,9 +122,11 @@ else:
 
 - `---` : 단락을 구분할 수 있다. (`***`, `___` 로 대체 가능)
 
+  ---
 
+  
 
-### 8. 인용문
+#### 8. 인용문
 
 - `>`
 
@@ -126,10 +138,14 @@ else:
 
 
 
-### 9. 표
+#### 9. 표
 
-| A    | B    | C    | D    |
-| ---- | ---- | ---- | ---- |
-|      |      |      |      |
+- `|A|` 가 표로 1칸
 
-- `|` + ` ` 의 개수가 표의 칸 수
+  ex) `|A|B|`
+
+- | A    | B    | C    |
+  | ---- | ---- | ---- |
+  |      |      |      |
+
+  
