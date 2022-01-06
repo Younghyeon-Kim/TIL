@@ -12,7 +12,7 @@
 
   - `git config --global user.email` : email 확인
 
-
+---
 
 ### Git - Github 연결 (Repository)
 
@@ -21,6 +21,8 @@
   - `git init` : git 시작
 
   - `git remote add origin <git repository url>` : repository 연결
+  - `ctrl + v` : 문서작업용
+  - `shift + insert` : 붙여넣기
 
 
 
