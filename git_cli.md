@@ -3,14 +3,13 @@
 ### Git - Github 연결 (User)
 
 - **한번만 해도 되는 작업**
-
-  - `git config --global user.name 'user_name'` : username 등록
-
-  - `git config --global user.name` : user.name 확인
-
-  - `git config --global user.email 'user_email'` : email 등록
-
-  - `git config --global user.email` : email 확인
+- `git config --global user.name 'user_name'` : username 등록
+  
+- `git config --global user.name` : user.name 확인
+  
+- `git config --global user.email 'user_email'` : email 등록
+  
+- `git config --global user.email` : email 확인
 
 ---
 
@@ -35,3 +34,8 @@
   - `git commit -m 'commit massage'` : commit massage 작성
 
   - `git push origin master` : github로 밀어내기
+
+
+
+- 자주하는 실수
+  - .git 이 이미 존재하는 폴더 하위 폴더에 `git init`을 하는 경우 에러가 발생
