@@ -10,6 +10,8 @@
 
 - **깃허브 레포 만들기**
 - **`git remote add origin <url>`**
+  - `git remote add <name> <url>`
+
 
 ### 원격
 
