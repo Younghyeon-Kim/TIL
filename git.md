@@ -1,6 +1,6 @@
 # Git
 
-## 1. Git
+## 1. Git의 기본 개념
 
 - Git : 분산 관리 시스템 (CLI를 사용)
   - **CLI**(Command Line Interface) : 터미널을 통해 사용자와 컴퓨터가 상호작용하는 방식
@@ -15,6 +15,8 @@
 - `git add`, `git commit -m`, `git push origin master`
 
 
+
+## 2. Git 시작하기
 
 ### 로컬
 
@@ -37,8 +39,6 @@
   - `-u` 옵션이 차후 push를 할 때 뒤의 아이들 쓰지 않아도 되게 함
 
 
-
-## 2. Git CLI
 
 ### Git - Github 연결 (User)
 
@@ -82,7 +82,7 @@
 
 
 
-## 3. CLI 기초
+## 3. 기본적인 CLI
 
 - `ls` : 현재 위치의 폴더, 파일 목록보기
 
