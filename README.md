@@ -2,7 +2,7 @@
 
 # TIL : Today I Learned
 
-![mindset](README/image-20220126215630900.png)
+
 
 ---
 
