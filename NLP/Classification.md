@@ -56,3 +56,9 @@
 
 ### 3. 모델링
 
+1. Logistic Regression
+2. Random Forest
+3. RNN
+   - LSTM
+   - **`Embedding`**
+4. CNN
