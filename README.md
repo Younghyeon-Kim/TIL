@@ -16,11 +16,11 @@
 
 ## 1. Python
 
-### 	Numpy
+- Numpy
 
-### 	Pandas
+- Pandas
 
-### Matplot
+- Matplot
 
 
 
@@ -33,3 +33,5 @@
 
 
 ## 4. NLP
+
+- Embedding
