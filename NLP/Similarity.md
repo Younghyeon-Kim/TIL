@@ -30,3 +30,20 @@
    
 
 3. MaLSTM
+
+   - `Manhattan Distance + LSTM`
+
+
+
+## 중요 내용 추출
+
+### 1. Page Rank 알고리즘
+
+
+
+### 2. Text Rank 알고리즘
+
+- Keyword extraction
+
+- Sentence extraction
+  - 문장간 유사도 (w) 측정                            
