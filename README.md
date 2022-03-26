@@ -2,13 +2,11 @@
 
 # TIL : Today I Learned
 
-어제의 데이터로 내일을 알 수 있을 때까지
+데이터를 통해 진짜 인사이트를 찾자
 
 
 
 ---
-
-
 
 ## 0. Experience
 
@@ -34,4 +32,6 @@
 
 ## 4. NLP
 
-- Embedding
+- WordEmbedding
+- SentenceEmbedding
+- Chatbot

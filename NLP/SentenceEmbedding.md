@@ -2,7 +2,11 @@
 
 ## 1. LSA
 
-문서 임베딩을 만들기 위한 잠재 의미 분석(LSA)은 단어-문서 행렬이나 TF-IDF 행렬에 특이값 분해(SVD)를 시행하고, 차원 축소된 행렬에서 문서에 대응하는 vector를 취하는 방식이다.
+문서 임베딩을 만들기 위한 잠재 의미 분석(LSA)은 단어-문서 행렬이나 TF-IDF 행렬에 특이값 분해(SVD)를 시행
+
+차원 축소된 행렬에서 문서에 대응하는 vector를 취하는 방식
+
+
 
 ## 2. Doc2Vec
 
@@ -48,7 +52,9 @@
 
 
 
-## 3. Topic Model
+## 3. LDA - Topic Model
+
+`Latent Dirichlet Allocation` : 각 문서에 어떤 Topic들이 존재하는지에 대한 확률 모형
 
 
 
@@ -57,6 +63,8 @@
 
 
 
+
+---
 
 ## 5. Transformer
 
