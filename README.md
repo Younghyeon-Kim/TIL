@@ -2,15 +2,9 @@
 
 # TIL : Today I Learned
 
-데이터를 통해 진짜 인사이트를 찾자
-
 
 
 ---
-
-## 0. Project
-
-
 
 ## 1. Python
 
