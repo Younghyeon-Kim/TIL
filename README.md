@@ -6,6 +6,12 @@
 
 ---
 
+## 0. Experience
+
+- 세미 프로젝트
+
+
+
 ## 1. Python
 
 - Numpy
