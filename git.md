@@ -68,12 +68,11 @@
 - **파일 수정, 생성 할때마다 해야하는 작업**
 
   - `git add .` : 모든 파일 staging area에 올리기
-
   - `git add <file_name>` : 파일 staging area에 올리기
-
-  - `git commit -m 'commit massage'` : commit massage 작성
-
-  - `git push origin master` : github로 밀어내기
+  
+- `git commit -m 'commit massage'` : commit massage 작성
+  
+- `git push origin master` : github로 밀어내기
 
 
 
