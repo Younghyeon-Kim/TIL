@@ -75,4 +75,3 @@ bool('Python')
 bool('')
 >>> False
 ```
-
