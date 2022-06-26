@@ -1,4 +1,4 @@
-# Markdown 문법
+# Markdown
 
 - Typora 설치 (UI가 편리하다)
 - Git hub 문서 : README.md 파일을 통해 오픈소스의 공식 문서 작성
